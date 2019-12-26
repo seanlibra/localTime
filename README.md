@@ -1,4 +1,4 @@
-# localTime
+# Demo
 
 https://seanlibra.github.io/localTime/
 
